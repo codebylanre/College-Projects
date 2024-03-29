@@ -1,0 +1,3 @@
+Alderleaf Buckthorn|Shrub|3|Wet
+Bearberry|Groundcover|2|Normal
+Giant Hyssop|Wildflower|2|Dry

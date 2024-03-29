@@ -1,0 +1,16 @@
+Alderleaf Buckthorn|Shrub|3|Wet
+Bearberry|Groundcover|2|Normal
+Giant Hyssop|Wildflower|2|Dry
+Bog Birch|Shrub|3|Wet
+Riverbank Grape|Vine|15|Normal
+Yello Cedar|Tree|5|Normal
+Christmas Fern|Fern|2|Dry
+Tamarack|Tree|6|Wet
+Wood Lily|Wildflower|2|Dry
+Oak Fern|Fern|3|Wet
+Blue Eyed Grass|Wildflower|1|Dry
+Lodgepole Pine|Tree|8|Dry
+Virginia Creeper|Vine|3|Normal
+Wintergreen|Groundcover|2|Normal
+Douglas Maple|Tree|7|Normal
+

@@ -1,0 +1,55 @@
+def sum_without_twenties(a, b ,c ):
+    if a in range(20, 30):
+        a = 0
+    if b in range(20, 30):
+        b = 0
+    if c in range(20, 30):
+        c = 0
+
+    return a + b + c
+
+    print(sum_without_twenties(20, 2, 3))
+
+def sumDigits(n):
+    hundredth = n // 100
+    tenth = (n % 100) // 10
+    unit = (n % 10)
+
+    return hundredth + tenth + unit
+
+    print(sumDigits(254))
+
+def get_substring_positions(str1, str2):
+    count = 0
+    list = []
+    for i in range(len(str1) - 1):
+        st1 = str1[i:i+2]
+        st2 = str2[i:i+2]
+        if st1 == st2:
+            list.append(st1)
+            count += 1
+    return count, list
+
+    print(get_substring_positions("mellow", "fellow"))
+
+def filter_words(filename, removewords):
+    with open(filename, "r") as file:
+        content = file.read()
+        words = content.split()
+
+        for word in words:
+            newlist = [word for word in words if word not in removewords]
+
+        return newlist
+    
+    with open("/Users/abdulbasitolagunju/school/CP164/revision/test.txt", "w") as file:
+        file.write("like happy like birthday yep summer is totally here lol happy summer")
+
+    filename = "/Users/abdulbasitolagunju/school/CP164/revision/test.txt"
+    removewords = ['like', 'whatever', 'lol', 'yep', 'totally']
+
+    print(filter_words(filename, removewords))
+            
+def add_by_column(matrix):
+    return 0
+#TOMORROW

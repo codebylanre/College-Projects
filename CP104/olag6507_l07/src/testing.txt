@@ -1,0 +1,69 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Olagunju Abdulbasit
+ID:      169076507
+Email:   olag6507@mylaurier.ca
+__updated__ = "2023-06-27"
+
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 50
+Too high, try again.
+Guess: 25
+Too low, try again.
+Guess: 30
+Too low, try again.
+Guess: 40
+Too high, try again.
+Guess: 35
+Too low, try again.
+Guess: 37
+Too low, try again.
+Guess: 38
+Congratulations - good guess!
+You made 7 guesses.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+25
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter positive value: 25
+Next positive value: 20
+Next positive value: 24
+Next positive value: -1
+20.0 25.0 69.0 23.0
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+For Day 1
+How much was breakfast? $1
+How much was lunch? $2
+How much was supper? $3
+Your total for the day was $6.00
+Were you away for another day (Y/N)Y
+For Day 2
+How much was breakfast? $34
+How much was lunch? $13
+How much was supper? $09
+Your total for the day was $56.00
+Were you away for another day (Y/N)N
+68.0 26.0 18.0 112.0
+-------------------------------------------------------
+t09
+-------------------------------------------------------
+Enter a value between 0 and 100: -12
+Value entered is too low
+Enter a value between 0 and 100: 1342
+Value entered is too high
+Enter a value between 0 and 100: 50
+50
+
+-------------------------------------------------------

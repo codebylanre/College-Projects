@@ -1,0 +1,49 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Olagunju Abdulbasit
+ID:      169076507
+Email:   olag6507@mylaurier.ca
+__updated__ = "2023-05-16"
+
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "petabyte"? 
+A petabyte (PB)is a lot of data:
+1 PB = 20 million 4 drawer filing cabinets filled with text
+1.5 PB = size of 10 billion photos on facebook
+20 PB = the amount of data processed by Google per day
+That's a lot of data to handle. Big Data.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your name?Abdulbasit
+What is your eye colour?Blue
+My name is Abdulbasit and I have Blue eyes.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter your length in inches:1
+length in cm 2.54
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the cost of burrito:1.95
+Enter the number of burritos:3
+Total cost of 3.0 burritos: $5.85
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter your Principal amount:5000
+Enter your annual rate in decimal:5.0
+Enter the duration of deposit/borrow:10
+Enter compound interest:12
+Balance: $8235.0474884514
+
+-------------------------------------------------------
