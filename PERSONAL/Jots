@@ -6,3 +6,6 @@ message = "Nice to meet you, "+ name
 
 # Display the message to the user
 print(message)
+
+
+print()
