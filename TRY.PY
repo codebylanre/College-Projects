@@ -1,4 +1,2 @@
-# print("Hi") 
-# print("hello")
-
-import antigravity
+print("Hi") 
+print("hello")
